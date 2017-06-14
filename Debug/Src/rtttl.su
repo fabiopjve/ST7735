@@ -1,0 +1,3 @@
+rtttl.c:40:6:playSound	8	static
+rtttl.c:53:8:getRTTTLSongName	8	static
+rtttl.c:72:6:playRTTTLSong	32	static

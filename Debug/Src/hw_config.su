@@ -1,0 +1,6 @@
+hw_config.c:18:6:receive_data	32	static
+hw_config.c:61:6:lcd7735_senddata	16	static
+hw_config.c:70:6:lcd7735_senddata16	16	static
+hw_config.c:80:6:lcd7735_sendCmd	0	static
+hw_config.c:87:6:lcd7735_sendData	0	static
+hw_config.c:96:6:lcd7735_setup	0	static
