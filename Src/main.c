@@ -3,7 +3,7 @@
   * Description        :
   *   Hello world Graphics LCD way! This code uses the ST7735 library written by
   *   Oleg Yakovlev (https://github.com/OlegUA/ST7735) with some small modifica-
-  *   tions in order for it to work with the STM32L432KC and newer HAL functions
+  *   tions in order to make it work with STM32L432KC and newer HAL functions
   *   UART2 is also enabled and can be used to communicate with the host compu-
   *   ter using ST-LINK's builtin VCP.
   *   Target board: STM NUCLEO32 (STM32L432KC based)
