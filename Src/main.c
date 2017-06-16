@@ -16,6 +16,8 @@
   *   - PB4 (D12)	- LCD_RESET
   *   - PB5 (D11)	- LCD_SDA (SPI1 MOSI)
   *
+  * http://sctec.com.br/blog/st7735-spi-lcd-with-the-stm32l432-microcontroller/
+  *
   * Author:              Fábio Pereira
   * Date:                06/12/2017
   ******************************************************************************

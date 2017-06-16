@@ -1,5 +1,5 @@
 # ST7735
-Hello world Graphics LCD way! This code uses the ST7735 library written by
+Hello world graphics LCD way! This code uses the ST7735 library written by
 Oleg Yakovlev (https://github.com/OlegUA/ST7735) with some small modifications 
 in order to make it work with the STM32L432KC and newer HAL functions.
 UART2 is also enabled and can be used to communicate with the host computer 
@@ -14,5 +14,7 @@ Pins used:
 - PB4 (D12)	- LCD_RESET
 - PB5 (D11)	- LCD_SDA (SPI1 MOSI)
 
-Author:              Fábio Pereira
+http://sctec.com.br/blog/st7735-spi-lcd-with-the-stm32l432-microcontroller/
+
+Author:              Fabio Pereira
 Date:                06/12/2017
